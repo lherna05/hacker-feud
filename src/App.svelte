@@ -254,10 +254,10 @@
 
     strikes = [];
 
-    playSound("theme", 0.1);
+    // playSound("theme", 0.1);
   }
 
-  playSound("theme", 0.1);
+  // playSound("theme", 0.1);
 </script>
 
 <style>
